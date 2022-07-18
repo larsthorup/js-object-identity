@@ -1,0 +1,23 @@
+{
+  "name": "js-object-identity",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run && tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larsthorup/js-object-identity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/larsthorup/js-object-identity/issues"
+  },
+  "homepage": "https://github.com/larsthorup/js-object-identity#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4",
+    "vitest": "^0.18.1"
+  }
+}
